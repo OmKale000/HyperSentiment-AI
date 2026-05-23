@@ -1,5 +1,3 @@
-<![CDATA[<div align="center">
-
 # 🧠 HyperSentiment AI
 
 ### Bitcoin Market Sentiment × Trader Performance Analytics
@@ -237,15 +235,13 @@ pytest tests/test_data_ingestion.py -v
 
 ---
 
-## ⚠️ Disclaimer
+## 👤 Author & Contact
 
-This project is for **educational and analytical purposes only**. Past performance does not guarantee future results. Do not use these findings as the sole basis for trading decisions.
+Om Kale
 
----
+📧 Email: ok176471@gmail.com
 
-<div align="center">
+🔗 LinkedIn: linkedin.com/in/om-kale-1663a0276
 
-**Built with ❤️ using Python, Streamlit, and data science**
+🐙 GitHub: github.com/OmKale
 
-</div>
-]]>
