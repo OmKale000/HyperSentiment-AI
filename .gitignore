@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+eggs/
+*.egg
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.env
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Data (keep sample, ignore large files)
+data/processed/*.csv
+data/processed/*.parquet
+*.log
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Distribution
+*.whl
+*.tar.gz
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
